@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: vivekanand1997/myweb:1.0"
+        image: vivekanand1997/myweb"
         ports:
         - containerPort: 8080
